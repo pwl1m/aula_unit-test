@@ -1,7 +1,7 @@
 /venv
+./venv
 
 /.pyteste_cache
-
 /pyteste_cache
 
 /__pycache__
