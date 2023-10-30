@@ -1,5 +1,6 @@
 /venv
 ./venv
+venv/
 
 /.pyteste_cache
 /pyteste_cache
