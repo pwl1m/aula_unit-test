@@ -1,11 +1,1 @@
-/venv
-./venv
 venv/
-
-/.pyteste_cache
-/pyteste_cache
-
-/__pycache__
-/.__pycache__
-
-
